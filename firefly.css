@@ -63,22 +63,27 @@ main{
 
 main img{
     width: 100%;
+    
 }
 
-.ns
-    {
-      position: relative;
-      top: 0;
-      left: 0;
-    }
-.heartless
-    {
-        width: 70%;
-        position: relative;
-        top: -200px;
-        left: 140px;
+.quadrado{
+    display:inline-block;
+    margin-right:35px;
+    max-width: 20%;   
+}
+.ns{
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.heartless{
+    width: 70%;
+    position: relative;
+    top: -200px;
+    left: 140px;
       
-    }
+}
 
 
 footer {
