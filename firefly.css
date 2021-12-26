@@ -71,6 +71,11 @@ main img{
     margin-right:35px;
     max-width: 20%;   
 }
+.produto{
+    display:inline-block;
+    margin-right:20px;
+    width: 30%; 
+}
 .ns{
     position: relative;
     top: 0;
