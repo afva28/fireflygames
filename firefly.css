@@ -28,6 +28,7 @@ header{
     justify-content: space-between;
     align-items: center;
     padding: 2px 2%; 
+    
 }
 
 .logo{
@@ -66,16 +67,65 @@ main img{
     
 }
 
+.icon{
+    margin-left: 25%;
+    max-width: 50%;
+    margin-top: 10%;
+    margin-bottom: 15%;
+}
+
+.engrenagem{
+    max-width: 30%;
+    position: absolute;
+    left: -13%;
+    top: 90%;
+}
+.engrenagem1{
+    max-width: 18%;
+    position: absolute;
+    left: 82%;
+    top: 139%;
+}
+.engrenagem2{
+    max-width: 15%;
+    position: absolute;
+    left: 85%;
+    top: 12%;
+}
+.engrenagem1g{
+    max-width: 18%;
+    position: absolute;
+    left: 82%;
+    top: 202%;
+}
+
+.logoc{
+    max-width: 50%;
+    position:relative;
+    left: 25%;
+}
+
 .quadrado{
     display:inline-block;
     margin-right:35px;
-    max-width: 20%;   
+    max-width: 20%;  
+    margin-bottom: 10%; 
 }
+
+.play{
+    margin-left: 40%;
+    max-width: 30%;
+    margin-top: 1%;
+    margin-bottom: 10%;
+    
+}
+
 .produto{
     display:inline-block;
     margin-right:20px;
     width: 30%; 
 }
+
 .ns{
     position: relative;
     top: 0;
@@ -85,9 +135,9 @@ main img{
 .heartless{
     width: 70%;
     position: relative;
-    top: -200px;
-    left: 140px;
-      
+    top: -60px;
+    left: 130px;
+    margin-bottom: 10%; 
 }
 
 
